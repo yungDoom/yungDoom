@@ -4,7 +4,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 
 ## My Repositories
 
-### Games & Game Hacks/Mods
   +  **[UE5 Roll a Ball Game](https://github.com/Stathor/ue5-roll-a-ball-game)**
   + **[SCP:CB Modding Tools Collection](https://github.com/WH0LEWHALE/scp-mt-collection)**
   + **[Roblox Uncopylocked Games Collection](https://github.com/WH0LEWHALE/roblox-uncopylocked-games)**
@@ -13,7 +12,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Minecraft Source Code - MCP Compiling Tutorial](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial)**
   + **[FiveM Hacks](https://github.com/WH0LEWHALE/fivem-hacks)**
   + **[Bully Selector Mod](https://github.com/Stathor/bully-selector-mod)**
-### Programs
   + **[TGMacro X](https://github.com/WH0LEWHALE/TGMacro-X/)**
   + **[DoS/DDoS Tool](https://github.com/Stathor/ddos-tool)**
 
