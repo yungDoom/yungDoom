@@ -3,7 +3,6 @@
 Good to see you here, you can look down for some good stuff maybe you can mess with. 
 
 ## My Repositories
-
   +  **[UE5 Roll a Ball Game](https://github.com/Stathor/ue5-roll-a-ball-game)**
   + **[SCP:CB Modding Tools Collection](https://github.com/WH0LEWHALE/scp-mt-collection)**
   + **[Roblox Uncopylocked Games Collection](https://github.com/WH0LEWHALE/roblox-uncopylocked-games)**
@@ -16,3 +15,16 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[TGMacro X](https://github.com/WH0LEWHALE/TGMacro-X/)**
   + **[DoS/DDoS Tool](https://github.com/Stathor/ddos-tool)**
 
+## My Favorite Repositories
++  **[Amnesia: The Dark Descent](https://github.com/TiManGames/AmnesiaTheDarkDescent)**
+    +  **[Amnesia: A Machine For Pigs](https://github.com/FrictionalGames/AmnesiaAMachineForPigs)**
+    
+This games are actually one of the best open source and horror games at all! but the assets are paid. (i bought tdd and amfp because of this)
+
++  **[Microsoft Powertoys](https://github.com/microsoft/PowerToys)**
+
+Very useful for me, i dont know about you but i like that.
+
++  **[Cheat Engine](https://github.com/cheat-engine/cheat-engine)**
+
+It gives alot of ability to hack with the executables.
