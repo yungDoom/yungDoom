@@ -19,7 +19,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 +  **[Amnesia: The Dark Descent](https://github.com/TiManGames/AmnesiaTheDarkDescent)**
     +  **[Amnesia: A Machine For Pigs](https://github.com/FrictionalGames/AmnesiaAMachineForPigs)**
     
-This games are actually one of the best open source and horror games at all! but the assets are paid. (i bought tdd and amfp because of this)
+These games are actually one of the best open source and horror games at all after the SCP: Containment Breach! but the assets are paid. (i bought tdd and amfp because of this)
 
 +  **[Microsoft Powertoys](https://github.com/microsoft/PowerToys)**
 
