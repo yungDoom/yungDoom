@@ -9,7 +9,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Amnesia: The Dark Descent Prebuilded Modding Tools](https://github.com/WH0LEWHALE/amnesia-tdd-modding-tools)**
     + **[Amnesia: TDD and AMFP Fixed Dependencies](https://github.com/WH0LEWHALE/amnesia-tdd-amfp-dependencies)**
   + **[Minecraft Source Code - MCP Compiling Tutorial](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial)**
-  + **[Black Shades X - Black Shades Game with a special touch.](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial)**
+  + **[Black Shades X - Black Shades Game with a special touch.](https://github.com/WH0LEWHALE/black-shades-x)**
   + **[FiveM Hacks](https://github.com/WH0LEWHALE/fivem-hacks)**
   + **[Bully Selector Mod](https://github.com/Stathor/bully-selector-mod)**
   + **[TGMacro X](https://github.com/WH0LEWHALE/TGMacro-X/)**
