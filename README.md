@@ -18,6 +18,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[FiveM Hacks](https://github.com/WH0LEWHALE/fivem-hacks)**
   + **[Bully Selector Mod](https://github.com/Stathor/bully-selector-mod)**
   + **[TGMacro X](https://github.com/WH0LEWHALE/TGMacro-X/)**
+  + **[Goldberg Steam Emulator Fork](https://github.com/WH0LEWHALE/goldberg-emu)**
   + **[DoS/DDoS Tool](https://github.com/Stathor/ddos-tool)**
 
 ## My Favorite Repositories
