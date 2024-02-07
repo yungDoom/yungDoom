@@ -28,3 +28,13 @@ Very useful for me, i dont know about you but i like that.
 +  **[Cheat Engine](https://github.com/cheat-engine/cheat-engine)**
 
 It gives alot of ability to hack with the executables.
+
++  **[Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge)**
+
+Playing a huge role on minecraft, sometimes better than the other alternatives.
+
++  **[TModloader](https://github.com/tModLoader/tModLoader)**
+
+A terraria mod loader, also it has decompiling the whole terraria game and tmodloader.
+
+NOTE: You need to own terraria on steam if you want to play with source code.
