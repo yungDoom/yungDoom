@@ -36,10 +36,4 @@ It gives alot of ability to hack with the executables.
 
 Playing a huge role on minecraft, sometimes better than the other alternatives.
 
-+  **[TModloader](https://github.com/tModLoader/tModLoader)**
-
-A terraria mod loader, also it has decompiling the whole terraria game and tmodloader.
-
-NOTE: You need to own terraria on steam if you want to play with source code.
-
 ---
