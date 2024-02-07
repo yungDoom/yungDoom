@@ -1,6 +1,7 @@
 # 👋 Welcome to my profile!
 Good to see you here, you can look down for some good stuff maybe you can mess with. 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WH0LEWHALE&theme=dark&langs_count=8)
 ![WH0LEWHALE's Github Stats](https://github-readme-stats.vercel.app/api?username=WH0LEWHALE&theme=dark&show_icons=true)
 
 ---
