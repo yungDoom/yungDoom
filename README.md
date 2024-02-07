@@ -9,8 +9,9 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[SCP:CB Modding Tools Collection](https://github.com/WH0LEWHALE/scp-mt-collection)**
   + **[Roblox Uncopylocked Games Collection](https://github.com/WH0LEWHALE/roblox-uncopylocked-games)**
   + **[Amnesia: The Dark Descent Prebuilded Modding Tools](https://github.com/WH0LEWHALE/amnesia-tdd-modding-tools)**
-    + **[Amnesia: TDD and AMFP Fixed Dependencies](https://github.com/WH0LEWHALE/amnesia-tdd-amfp-dependencies)**
-  + **[Minecraft Source Code - MCP Compiling Tutorial](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial)**
+  + **[Amnesia: The Dark Descent Fixed Source Code](https://github.com/WH0LEWHALE/AmnesiaTheDarkDescentFixed)**
+     + **[Amnesia: TDD and AMFP Fixed Dependencies](https://github.com/WH0LEWHALE/amnesia-tdd-amfp-dependencies)**
+     + **[Minecraft Source Code - MCP Compiling Tutorial](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial)**
   + **[Black Shades X - Black Shades Game with a special touch.](https://github.com/WH0LEWHALE/black-shades-x)**
   + **[FiveM Hacks](https://github.com/WH0LEWHALE/fivem-hacks)**
   + **[Bully Selector Mod](https://github.com/Stathor/bully-selector-mod)**
