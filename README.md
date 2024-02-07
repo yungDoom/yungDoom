@@ -1,7 +1,7 @@
 # 👋 Welcome to my profile!
 Good to see you here, you can look down for some good stuff maybe you can mess with. 
 
-![WH0LEWHALE's Github Stats](https://github-readme-stats.vercel.app/api?username=WH0LEWHALE&theme=shadow_red&show_icons=true)
+![WH0LEWHALE's Github Stats](https://github-readme-stats.vercel.app/api?username=WH0LEWHALE&theme=dark&show_icons=true)
 
 ---
 
