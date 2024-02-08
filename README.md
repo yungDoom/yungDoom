@@ -41,4 +41,3 @@ Playing a huge role on minecraft, sometimes better than the other alternatives.
 
 ---
 
-You can check out my website if you want: <https://www.WH0LEWHALE.github.io>
