@@ -1,5 +1,6 @@
-# 👋 Welcome to my profile!
 <img src="https://raw.githubusercontent.com/MergeCommits/MergeCommits/output/snake.svg">
+
+# 👋 Welcome to my profile!
 Good to see you here, you can look down for some good stuff maybe you can mess with. 
 
 ---
