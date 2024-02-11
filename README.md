@@ -39,5 +39,9 @@ It gives alot of ability to hack with the executables.
 
 Playing a huge role on minecraft, sometimes better than the other alternatives.
 
++  **[PolyMC Offline](https://github.com/WH0LEWHALE/PolyMC-Offline)**
+
+Best Launcher for offline players, supports *almost* all modding platforms. (I bought minecraft but i like this.)
+
 ---
 
