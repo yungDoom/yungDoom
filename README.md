@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MergeCommits/MergeCommits/output/snake.svg">
-
 # 👋 Welcome to my profile!
 Good to see you here, you can look down for some good stuff maybe you can mess with. 
 
@@ -21,27 +19,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[DoS/DDoS Tool](https://github.com/Stathor/ddos-tool)**
   + **[Assembly Example](https://github.com/WH0LEWHALE/assembly-example)**
 
-## My Favorite Repositories
-+  **[Amnesia: The Dark Descent](https://github.com/TiManGames/AmnesiaTheDarkDescent)**
-    +  **[Amnesia: A Machine For Pigs](https://github.com/FrictionalGames/AmnesiaAMachineForPigs)**
-    
-These games are actually one of the best open source and horror games at all after the SCP: Containment Breach! but the assets are paid. (i bought tdd and amfp because of this)
-
-+  **[Microsoft Powertoys](https://github.com/microsoft/PowerToys)**
-
-Very useful for me, i dont know about you but i like that.
-
-+  **[Cheat Engine](https://github.com/cheat-engine/cheat-engine)**
-
-It gives alot of ability to hack with the executables.
-
-+  **[Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge)**
-
-Playing a huge role on minecraft, sometimes better than the other alternatives.
-
-+  **[PolyMC Offline](https://github.com/WH0LEWHALE/PolyMC-Offline)**
-
-Best Launcher for offline players, supports *almost* all modding platforms. (I bought minecraft but i like this.)
 
 ---
 
+<img src="https://raw.githubusercontent.com/MergeCommits/MergeCommits/output/snake.svg">
