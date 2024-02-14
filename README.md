@@ -1,9 +1,6 @@
 # 👋 Welcome to my profile!
 Good to see you here, you can look down for some good stuff maybe you can mess with. 
 
----
-
-
 ## My Repositories
   +  **[UE5 Roll a Ball Game](https://github.com/Stathor/ue5-roll-a-ball-game)**
   + **[SCP:CB Modding Tools Collection](https://github.com/WH0LEWHALE/scp-mt-collection)**
