@@ -24,5 +24,5 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WH0LEWHALE&theme=github_dark_dimmed&show=discussions_answered,prs_merged&card_width=550" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WH0LEWHALE&layout=compact&langs_count=8&card_width=360&theme=github_dark_dimmed" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WH0LEWHALE&layout=compact&langs_count=8&card_width=370&theme=github_dark_dimmed" />
 </a>
