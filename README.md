@@ -20,6 +20,9 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 
 
 ---
+
+![](https://komarev.com/ghpvc/?username=WH0LEWHALE&color=blue)
+
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WH0LEWHALE&theme=github_dark_dimmed&show=discussions_answered,prs_merged&card_width=550" />
 </a>
@@ -41,8 +44,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 ![C](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) 
 ![C](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![C](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-![](https://komarev.com/ghpvc/?username=WH0LEWHALE&color=green) 
 
 
 
