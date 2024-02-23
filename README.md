@@ -9,7 +9,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[SCP:CB Modding Tools Collection](https://github.com/WH0LEWHALE/scp-mt-collection)**
   + **[Roblox Uncopylocked Games Collection](https://github.com/WH0LEWHALE/roblox-uncopylocked-games)**
   + **[Amnesia Prebuilded Modding Tools](https://github.com/WH0LEWHALE/amnesia-tdd-modding-tools)**
-     + **[Amnesia: The Dark Descent and A Machine For Pigs Fixed Dependencies](https://github.com/WH0LEWHALE/amnesia-tdd-amfp-dependencies)**
+     + **[Amnesia Fixed Dependencies](https://github.com/WH0LEWHALE/amnesia-tdd-amfp-dependencies)**
   + **[DoS/DDoS Tool](https://github.com/Stathor/ddos-tool)**
   + **[Assembly Example](https://github.com/WH0LEWHALE/assembly-example)**
 
