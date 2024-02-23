@@ -4,8 +4,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 ## My Repositories
   +  **[UE5 Roll a Ball Game](https://github.com/Stathor/ue5-roll-a-ball-game)**
   + **[TGMacro X](https://github.com/WH0LEWHALE/TGMacro-X/)**
-  + **[Linux-Strike](https://github.com/WH0LEWHALE/Linux-Strike)** (Fork of Kisak Strike)
-     + **[Linux-Strike ROCKETUI Files](https://github.com/WH0LEWHALE/Linux-Strike-Files)** (Fork of Kisak Strike Files)
   + **[FiveM Hacks](https://github.com/WH0LEWHALE/fivem-hacks)**
   + **[Bully Selector Mod](https://github.com/Stathor/bully-selector-mod)**
   + **[SCP:CB Modding Tools Collection](https://github.com/WH0LEWHALE/scp-mt-collection)**
