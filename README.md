@@ -9,6 +9,10 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[FiveM Hacks](https://github.com/WH0LEWHALE/fivem-hacks)**
   + **[Amnesia Prebuilded Modding Tools](https://github.com/WH0LEWHALE/amnesia-tdd-modding-tools)**
      + **[Amnesia Fixed Dependencies](https://github.com/WH0LEWHALE/amnesia-tdd-amfp-dependencies)**
+  + **[Linux Strike](https://github.com/WH0LEWHALE/Linux-Strike)** (Fork of Kisak Strike)
+     + **[Linux Strike Files](https://github.com/WH0LEWHALE/Linux-Strike-Files)**  (Fork of Kisak Strike Files)
+     + **[OSVPhysics](https://github.com/WH0LEWHALE/OSVPhysics)** (Open Source VPhysics)
+  + **[Goldberg Steam Emulator](https://github.com/WH0LEWHALE/goldberg-emulator)** (Fork of Goldberg Steam Emulator, but fixed compiling for linux)
   + **[DoS/DDoS Tool](https://github.com/WH0LEWHALE/ddos-tool)**
   + **[Assembly Example](https://github.com/WH0LEWHALE/assembly-example)**
 
