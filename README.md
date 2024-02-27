@@ -28,7 +28,9 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 + **[Github Gist](https://gist.github.com/WH0LEWHALE)**
 + **[My Website](https://WH0LEWHALE.github.io)**
  </details> 
+ 
 ---
+
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WH0LEWHALE&theme=github_dark_dimmed&card_width=425" />
 </a>
