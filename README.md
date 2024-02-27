@@ -2,6 +2,9 @@
 Good to see you here, you can look down for some good stuff maybe you can mess with. 
 
 ## My Repositories
+<details>  
+  <summary>Expand List</summary>
+  
   +  **[UE5 Roll a Ball Game](https://github.com/WH0LEWHALE/ue5-roll-a-ball-game)**
   + **[TGMacro X](https://github.com/WH0LEWHALE/TGMacro-X/)**
   + **[SCP:CB Modding Tools Collection](https://github.com/WH0LEWHALE/scp-mt-collection)**
@@ -16,11 +19,15 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Assembly Example](https://github.com/WH0LEWHALE/assembly-example)**
   + **[DoS/DDoS Tool](https://github.com/WH0LEWHALE/ddos-tool)**
   + **[Discord Image Logger](https://github.com/WH0LEWHALE/image-logger-discord)**
+ </details> 
 
 ## Other
+<details>  
+  <summary>Expand List</summary>
+  
 + **[Github Gist](https://gist.github.com/WH0LEWHALE)**
 + **[My Website](https://WH0LEWHALE.github.io)**
-
+ </details> 
 ---
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WH0LEWHALE&theme=github_dark_dimmed&card_width=425" />
