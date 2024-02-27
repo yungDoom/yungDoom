@@ -3,7 +3,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 
 ## My Repositories
 <details>  
-  <summary>Expand List</summary>
+**  <summary>Expand List</summary>**
   
   +  **[UE5 Roll a Ball Game](https://github.com/WH0LEWHALE/ue5-roll-a-ball-game)**
   + **[TGMacro X](https://github.com/WH0LEWHALE/TGMacro-X/)**
@@ -23,7 +23,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 
 ## Other
 <details>  
-  <summary>Expand List</summary>
+**  <summary>Expand List</summary>**
   
 + **[Github Gist](https://gist.github.com/WH0LEWHALE)**
 + **[My Website](https://WH0LEWHALE.github.io)**
