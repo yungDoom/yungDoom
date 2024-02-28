@@ -22,12 +22,9 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
  </details> 
  
 ## Other
-<details>  
-<summary>Expand List</summary>
-  
+
 + **[Github Gist](https://gist.github.com/WH0LEWHALE)**
 + **[My Website](https://WH0LEWHALE.github.io)**
- </details> 
  
 ---
 
