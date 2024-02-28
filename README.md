@@ -21,11 +21,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Discord Image Logger](https://github.com/WH0LEWHALE/image-logger-discord)**
  </details> 
  
-## Other
-
-+ **[Github Gist](https://gist.github.com/WH0LEWHALE)**
-+ **[My Website](https://WH0LEWHALE.github.io)**
- 
 ---
 
 <a href="">
