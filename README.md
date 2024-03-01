@@ -2,9 +2,6 @@
 Good to see you here, you can look down for some good stuff maybe you can mess with. 
 
 ## My Repositories
-<details>  
-<summary>Expand List</summary>
-  
   +  **[UE5 Roll a Ball Game](https://github.com/WH0LEWHALE/ue5-roll-a-ball-game)**
   + **[TGMacro X](https://github.com/WH0LEWHALE/TGMacro-X/)**
   + **[SCP:CB Modding Tools Collection](https://github.com/WH0LEWHALE/scp-mt-collection)**
@@ -21,7 +18,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[DoS/DDoS Tool](https://github.com/WH0LEWHALE/ddos-tool)**
   + **[Discord Image Logger](https://github.com/WH0LEWHALE/image-logger-discord)**
   + **[Password Generator](https://github.com/WH0LEWHALE/Password-Generator)**
- </details> 
  
 ---
 
