@@ -18,6 +18,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[DoS/DDoS Tool](https://github.com/WH0LEWHALE/ddos-tool)**
   + **[Discord Image Logger](https://github.com/WH0LEWHALE/image-logger-discord)**
   + **[Password Generator](https://github.com/WH0LEWHALE/Password-Generator)**
+  + **[Pocket Calculator Extension - Calculator Extension](https://github.com/WH0LEWHALE/calculator-extension)**
  
 ---
 
