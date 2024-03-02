@@ -47,10 +47,8 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Audacity](https://github.com/WH0LEWHALE/WH0LEWHALE/assets/146978592/85704924-bde7-4708-8fc3-678b41d2e43f)  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white) ![image](https://img.shields.io/badge/7Zip-000000?style=for-the-badge&logo=7zip&logoColor=white)
-![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) 
-
-![vmware](https://img.shields.io/badge/VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white) ![virtualbox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) 
-
+![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) <br>
+![vmware](https://img.shields.io/badge/VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white) ![virtualbox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) <br>
 ![Brave](https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=brave&logoColor=white) ![Firefox Browser](https://img.shields.io/badge/Firefox_Browser-FF7139.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D.svg?style=for-the-badge&logo=opera&logoColor=white) ![Opera GX](https://img.shields.io/badge/Opera_GX-EE2950.svg?style=for-the-badge&logo=operagx&logoColor=white)
 
 </div>
