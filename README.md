@@ -28,7 +28,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WH0LEWHALE&layout=compact&langs_count=8&card_width=385&theme=github_dark_dimmed" />
 </a>
-<br><br>
+<br>
 
 <div align="center"> 
   
