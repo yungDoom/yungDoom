@@ -51,6 +51,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 <div align="center"> 
   
 ![C](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) 
+![C](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows-10&logoColor=white) 
 ![image](https://github.com/WH0LEWHALE/WH0LEWHALE/assets/146978592/d07c807a-c114-4f85-9bea-a8707a612972)
 ![C](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) 
 ![C](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
