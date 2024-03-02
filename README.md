@@ -29,6 +29,12 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WH0LEWHALE&layout=compact&langs_count=8&card_width=385&theme=github_dark_dimmed" />
 </a>
 
+<div align="center"> 
+  
+![sumthing](https://komarev.com/ghpvc/?username=WH0LEWHALE&color=blue&style=for-the-badge)                       
+
+</div>
+
 <h3 align="center">Languages and Tools</h3>
   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
