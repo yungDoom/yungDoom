@@ -59,4 +59,5 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 ![C](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
+
 **<div align="center">Thanks for viewing my profile!</div>**
