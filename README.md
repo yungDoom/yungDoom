@@ -64,4 +64,4 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 
 </div>
 
-**<div align="center">Thanks for viewing my profile!</div>**
+*<div align="center">Thanks for viewing my profile!</div>*
