@@ -31,7 +31,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 </a>
 
 <h3 align="center">Languages, Tools and Programs</h3>
-<h6 align="center">That Im Using Or Used Before</h7><br><br>
+<h6 align="center">That I'm Using or Used Before</h7><br><br>
 
 <div align="center"> 
   
