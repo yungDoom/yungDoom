@@ -52,7 +52,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 
 ![vmware](https://img.shields.io/badge/VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white) ![virtualbox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-![Brave](https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=brave&logoColor=white) ![Firefox Browser](https://img.shields.io/badge/Firefox_Browser-FF7139.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D.svg?style=for-the-badge&logo=opera&logoColor=white) ![Opera GX](https://img.shields.io/badge/Opera_GX-EE2950.svg?style=for-the-badge&logo=operagx&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=brave&logoColor=white) ![Firefox Browser](https://img.shields.io/badge/Firefox_Browser-FF7139.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
 
 </div>
 
@@ -60,9 +60,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 <div align="center"> 
   
 ![C](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) 
-![C](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows-10&logoColor=white)
 ![C](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) 
-![C](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
 
