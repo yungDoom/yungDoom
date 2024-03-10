@@ -22,7 +22,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Pocket Calculator Extension - Calculator Extension](https://github.com/WH0LEWHALE/calculator-extension)**
   + **[Hello World In Almost All Languages](https://github.com/WH0LEWHALE/hello-world)**
   + **[Panel Script](https://github.com/WH0LEWHALE/panel-script)**
-     + **[Turkey 2021/2022 ID & Telephone Data](https://github.com/WH0LEWHALE/panel-script)**
+     + **[Turkey 2021/2022 ID & Telephone Data](https://github.com/WH0LEWHALE/data-turkish)**
 
 **I Also Have These Famous Games Source Code:**
 1. Grand Theft Auto V / Build 2699
