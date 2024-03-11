@@ -1,5 +1,4 @@
 # 👋 Welcome to my github profile!
-Hey, VSauce Michael Here.. Your home security is great. Or is it?<br>
 Good to see you here, you can look down for some good stuff maybe you can mess with. 
 
 ## My Repositories
