@@ -21,6 +21,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Password Generator](https://github.com/WH0LEWHALE/Password-Generator)**
   + **[Password Generator NEW](https://github.com/WH0LEWHALE/Password-Generator-NEW)**
   + **[Pocket Calculator Extension - Calculator Extension](https://github.com/WH0LEWHALE/calculator-extension)**
+  + **[Python PC Lagger](https://github.com/WH0LEWHALE/python-pc-lagger)**
   + **[Hello World In Almost All Languages](https://github.com/WH0LEWHALE/hello-world)**
   + **[Panel Script](https://github.com/WH0LEWHALE/panel-script)**
      + **[Turkey 2021/2022 ID & Telephone Data](https://github.com/WH0LEWHALE/data-turkey)**
