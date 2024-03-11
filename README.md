@@ -61,7 +61,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 
 
-![vmware](https://img.shields.io/badge/VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white) ![hyperv](https://img.shields.io/badge/HyperV-darkblue?style=for-the-badge&logo=databricks&logoColor=white)
+![vmware](https://img.shields.io/badge/VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white) ![hyperv](https://img.shields.io/badge/Hyper—V-darkblue?style=for-the-badge&logo=databricks&logoColor=white)
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=brave&logoColor=white) ![Firefox Browser](https://img.shields.io/badge/Firefox_Browser-FF7139.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
 
@@ -70,7 +70,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 <h3 align="center">Operating Systems</h3>
 <div align="center"> 
   
-![C](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) 
+![C](https://img.shields.io/badge/Windows_11/10-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) 
 ![C](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) 
 
 </div>
