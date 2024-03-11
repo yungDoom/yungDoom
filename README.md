@@ -23,12 +23,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Hello World In Almost All Languages](https://github.com/WH0LEWHALE/hello-world)**
   + **[Panel Script](https://github.com/WH0LEWHALE/panel-script)**
      + **[Turkey 2021/2022 ID & Telephone Data](https://github.com/WH0LEWHALE/data-turkey)**
-
-**I Also Have These Famous Games Source Code:**
-1. Grand Theft Auto V / Build 2699
-2. Roblox / Version 2016
-3. Source & Gold Source Engine Games (Including CS:GO, TF2 and More!)
-4. Minecraft Java Edition
  
 ---
 
