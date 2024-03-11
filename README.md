@@ -46,8 +46,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
 
-![Github Desktop](https://img.shields.io/badge/Github_Desktop-181717.svg?style=for-the-badge&logo=github&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
-
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Photopea](https://img.shields.io/badge/Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=FFFFFF) ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white) ![image](https://img.shields.io/badge/7Zip-000000?style=for-the-badge&logo=7zip&logoColor=white) ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
