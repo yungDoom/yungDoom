@@ -29,9 +29,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 2. Roblox / Version 2016
 3. Source & Gold Source Engine Games (Including CS:GO, TF2 and More!)
 4. Minecraft Java Edition
-
-*I mostly have repositories that some games on the list, Check out my "Repositories" Tab.*
-
  
 ---
 
