@@ -7,7 +7,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[SCP:CB Modding Tools Collection](https://github.com/WH0LEWHALE/scp-mt-collection)**
   + **[Roblox Uncopylocked Games Collection](https://github.com/WH0LEWHALE/roblox-uncopylocked-games)**
   + **[Minecraft Source Code Compiling Tutorial](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial)**
-  + **[Grand Theft Auto V|5 Source Code Build Tutorial/Guide](https://github.com/WH0LEWHALE/gtav-build-guide)**
+  + **[Grand Theft Auto V(GTA 5) Source Code Build Tutorial/Guide](https://github.com/WH0LEWHALE/gtav-build-guide)**
   + **[FiveM Hacks](https://github.com/WH0LEWHALE/fivem-hacks)**
   + **[Friday 13th The Game Hacks](https://github.com/WH0LEWHALE/friday-13th-game-hacks)**
   + **[Amnesia Prebuilded Modding Tools](https://github.com/WH0LEWHALE/amnesia-tdd-modding-tools)**
