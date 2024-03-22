@@ -1,6 +1,5 @@
 # 👋 Welcome to my github profile!
-Good to see you here, you can look down for some good stuff maybe you can mess with,
-I doesn't have any private repositories :D
+Good to see you here, you can look down for some good stuff maybe you can mess with.
 
 ### My Repositories
   +  **[UE5 Roll a Ball Game](https://github.com/WH0LEWHALE/ue5-roll-a-ball-game)**
@@ -26,8 +25,6 @@ I doesn't have any private repositories :D
   + **[Python PC Lagger](https://github.com/WH0LEWHALE/python-pc-lagger)**
   + **[Python Random Number Generator](https://github.com/WH0LEWHALE/python-random-number)**
   + **[Hello World In Almost All Languages](https://github.com/WH0LEWHALE/hello-world)**
-  + **[Turkey Citizenship Database](https://github.com/WH0LEWHALE/turkey-data-rare)**
- 
 ---
 
 <a href="">
