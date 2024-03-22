@@ -15,6 +15,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Linux Strike](https://github.com/WH0LEWHALE/Linux-Strike)** (Fork of Kisak Strike, but modified one.)
      + **[Linux Strike Files](https://github.com/WH0LEWHALE/Linux-Strike-Files)**  (Fork of Kisak Strike Files)
      + **[OSVPhysics](https://github.com/WH0LEWHALE/OSVPhysics)** (Open Source VPhysics)
+  + **[Roblox 2016 Source Code Fixed Hitius Edition](https://github.com/WH0LEWHALE/roblox-hitius-sourcecode)**
   + **[Goldberg Steam Emulator](https://github.com/WH0LEWHALE/goldberg-emulator)** (Fork of Goldberg Steam Emulator but fixed compiling for linux.)
   + **[Assembly Example](https://github.com/WH0LEWHALE/assembly-example)**
   + **[Lua Test](https://github.com/WH0LEWHALE/lua-test)**
@@ -25,7 +26,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Python PC Lagger](https://github.com/WH0LEWHALE/python-pc-lagger)**
   + **[Python Random Number Generator](https://github.com/WH0LEWHALE/python-random-number)**
   + **[Hello World In Almost All Languages](https://github.com/WH0LEWHALE/hello-world)**
-  + **[Roblox 2016 Source Code Fixed Hitius Edition](https://github.com/WH0LEWHALE/roblox-hitius-sourcecode)**
 ---
 
 <a href="">
