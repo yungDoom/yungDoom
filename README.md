@@ -26,6 +26,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Python PC Lagger](https://github.com/WH0LEWHALE/python-pc-lagger)**
   + **[Python Random Number Generator](https://github.com/WH0LEWHALE/python-random-number)**
   + **[Hello World In Almost All Languages](https://github.com/WH0LEWHALE/hello-world)**
+  + **[Activate Windows 10/11](https://github.com/WH0LEWHALE/activate-windows)**
   + **[Turkey Citizenship Database]()** (Private Repository)
     + **[Panel Script]()** (Private Repository)
 ---
