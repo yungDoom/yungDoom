@@ -37,9 +37,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WH0LEWHALE&layout=compact&langs_count=8&card_width=385&theme=transparent" />
 </a>
-<p align="center">
-  <img height=200 src="https://discord-readme-badge.vercel.app/api?id=1215331412849459266" />
-</p>
 
 <h3 align="center">Languages, Tools and Programs</h3>
 <h6 align="center">That I'm Using or Used Before</h7><br><br>
