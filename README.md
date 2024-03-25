@@ -39,7 +39,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 </a>
 
 <h3 align="center">Languages, Tools and Programs That I am Familiar With</h3>
-<h6 align="center"></h7><br><br>
 
 <div align="center"> 
   
