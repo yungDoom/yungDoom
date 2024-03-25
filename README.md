@@ -27,7 +27,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Python Random Number Generator](https://github.com/WH0LEWHALE/python-random-number)**
   + **[Hello World In Almost All Languages](https://github.com/WH0LEWHALE/hello-world)**
   + **[Activate Windows 10/11](https://github.com/WH0LEWHALE/activate-windows)**
-  + **[Turkey 2022/2015 Citizenship Database with 2021 GSM Database Including ID/TC](https://github.com/WH0LEWHALE/turkey-data)** (Private Repository)
+  + **[Turkey 2022/2015 Citizenship Database with 2021 GSM Database Including ID/TC](https://github.com/WH0LEWHALE/turkey-data)**
     + **[Panel Script](https://github.com/WH0LEWHALE/panel-script)**
 ---
 
