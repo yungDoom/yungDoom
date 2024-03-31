@@ -3,19 +3,12 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 
 ### My Repositories
   +  **[UE5 Roll a Ball Game](https://github.com/WH0LEWHALE/ue5-roll-a-ball-game)**
-  + **[TGMacro X](https://github.com/WH0LEWHALE/TGMacro-X/)**
   + **[SCP:CB Modding Tools Collection](https://github.com/WH0LEWHALE/scp-mt-collection)**
-  + **[Roblox Uncopylocked Games Collection](https://github.com/WH0LEWHALE/roblox-uncopylocked-games)**
-  + **[Minecraft Source Code Compiling Tutorial](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial)**
-  + **[Grand Theft Auto V Source Code Build Guide](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide)**
-  + **[FiveM Hacks](https://github.com/WH0LEWHALE/fivem-hacks)**
-  + **[Friday 13th The Game Hacks](https://github.com/P0L3NARUBA/friday-13th-game-hacks)**
   + **[Amnesia Prebuilded Modding Tools](https://github.com/WH0LEWHALE/amnesia-tdd-modding-tools)**
      + **[Amnesia Fixed Dependencies](https://github.com/WH0LEWHALE/amnesia-tdd-amfp-dependencies)**
   + **[Linux Strike](https://github.com/WH0LEWHALE/Linux-Strike)** (Fork of Kisak Strike, but modified one.)
      + **[Linux Strike Files](https://github.com/WH0LEWHALE/Linux-Strike-Files)**  (Fork of Kisak Strike Files)
      + **[OSVPhysics](https://github.com/WH0LEWHALE/OSVPhysics)** (Open Source VPhysics)
-  + **[Roblox 2016 Source Code Fixed Hitius Edition](https://github.com/P0L3NARUBA/roblox-hitius-sourcecode)**
   + **[Goldberg Steam Emulator](https://github.com/WH0LEWHALE/goldberg-emulator)** (Fork of Goldberg Steam Emulator but fixed compiling for linux.)
   + **[Assembly Example](https://github.com/WH0LEWHALE/assembly-example)**
   + **[Lua Test](https://github.com/WH0LEWHALE/lua-test)**
@@ -27,6 +20,15 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Python Random Number Generator](https://github.com/WH0LEWHALE/python-random-number)**
   + **[Hello World In Almost All Languages](https://github.com/WH0LEWHALE/hello-world)**
   + **[Activate Windows 10/11](https://github.com/WH0LEWHALE/activate-windows)**
+
+### My Organization Repositories
+  + **[TGMacro X](https://github.com/P0L3NARUBA/TGMacro-X/)**
+  + **[Roblox Uncopylocked Games Collection](https://github.com/P0L3NARUBA/roblox-uncopylocked-games)**
+  + **[Minecraft Source Code Compiling Tutorial](https://github.com/P0L3NARUBA/minecraft-sc-compiling-tutorial)**
+  + **[Grand Theft Auto V Source Code Build Guide](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide)**
+  + **[FiveM Hacks](https://github.com/P0L3NARUBA/fivem-hacks)**
+  + **[Friday 13th The Game Hacks](https://github.com/P0L3NARUBA/friday-13th-game-hacks)**
+  + **[Roblox 2016 Source Code Fixed Hitius Edition](https://github.com/P0L3NARUBA/roblox-hitius-sourcecode)**
 ---
 
 <a href="">
