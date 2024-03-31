@@ -4,13 +4,11 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 ### My Repositories
   + **[Assembly Example](https://github.com/WH0LEWHALE/assembly-example)**
   + **[Lua Test](https://github.com/WH0LEWHALE/lua-test)**
-  + **[DoS/DDoS Tool](https://github.com/WH0LEWHALE/ddos-tool)**
   + **[Password Generator](https://github.com/WH0LEWHALE/Password-Generator)**
   + **[Password Generator NEW](https://github.com/WH0LEWHALE/Password-Generator-NEW)**
   + **[Pocket Calculator Extension - Calculator Extension](https://github.com/WH0LEWHALE/calculator-extension)**
   + **[Python PC Lagger](https://github.com/WH0LEWHALE/python-pc-lagger)**
   + **[Python Random Number Generator](https://github.com/WH0LEWHALE/python-random-number)**
-  + **[Hello World In Almost All Languages](https://github.com/WH0LEWHALE/hello-world)**
 
 ### My Organization Repositories
   +  **[UE5 Roll a Ball Game](https://github.com/P0L3NARUBA/ue5-roll-a-ball-game)**
