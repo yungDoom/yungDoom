@@ -7,15 +7,15 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[SCP:CB Modding Tools Collection](https://github.com/WH0LEWHALE/scp-mt-collection)**
   + **[Roblox Uncopylocked Games Collection](https://github.com/WH0LEWHALE/roblox-uncopylocked-games)**
   + **[Minecraft Source Code Compiling Tutorial](https://github.com/WH0LEWHALE/minecraft-sc-compiling-tutorial)**
-  + **[Grand Theft Auto V Source Code Build Guide](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide)**
+  + **[Grand Theft Auto V Source Code Build Guide](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide)**
   + **[FiveM Hacks](https://github.com/WH0LEWHALE/fivem-hacks)**
-  + **[Friday 13th The Game Hacks](https://github.com/WH0LEWHALE/friday-13th-game-hacks)**
+  + **[Friday 13th The Game Hacks](https://github.com/P0L3NARUBA/friday-13th-game-hacks)**
   + **[Amnesia Prebuilded Modding Tools](https://github.com/WH0LEWHALE/amnesia-tdd-modding-tools)**
      + **[Amnesia Fixed Dependencies](https://github.com/WH0LEWHALE/amnesia-tdd-amfp-dependencies)**
   + **[Linux Strike](https://github.com/WH0LEWHALE/Linux-Strike)** (Fork of Kisak Strike, but modified one.)
      + **[Linux Strike Files](https://github.com/WH0LEWHALE/Linux-Strike-Files)**  (Fork of Kisak Strike Files)
      + **[OSVPhysics](https://github.com/WH0LEWHALE/OSVPhysics)** (Open Source VPhysics)
-  + **[Roblox 2016 Source Code Fixed Hitius Edition](https://github.com/WH0LEWHALE/roblox-hitius-sourcecode)**
+  + **[Roblox 2016 Source Code Fixed Hitius Edition](https://github.com/P0L3NARUBA/roblox-hitius-sourcecode)**
   + **[Goldberg Steam Emulator](https://github.com/WH0LEWHALE/goldberg-emulator)** (Fork of Goldberg Steam Emulator but fixed compiling for linux.)
   + **[Assembly Example](https://github.com/WH0LEWHALE/assembly-example)**
   + **[Lua Test](https://github.com/WH0LEWHALE/lua-test)**
