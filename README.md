@@ -2,13 +2,13 @@
 Good to see you here, you can look down for some good stuff maybe you can mess with.
 
 ### My Repositories
-  + **[Assembly Example](https://github.com/WH0LEWHALE/assembly-example)**
-  + **[Lua Test](https://github.com/WH0LEWHALE/lua-test)**
-  + **[Password Generator](https://github.com/WH0LEWHALE/Password-Generator)**
-  + **[Password Generator NEW](https://github.com/WH0LEWHALE/Password-Generator-NEW)**
-  + **[Pocket Calculator Extension - Calculator Extension](https://github.com/WH0LEWHALE/calculator-extension)**
-  + **[Python PC Lagger](https://github.com/WH0LEWHALE/python-pc-lagger)**
-  + **[Python Random Number Generator](https://github.com/WH0LEWHALE/python-random-number)**
+  + **[Assembly Example](https://github.com/AnomaliesGentoolman/assembly-example)**
+  + **[Lua Test](https://github.com/AnomaliesGentoolman/lua-test)**
+  + **[Password Generator](https://github.com/AnomaliesGentoolman/Password-Generator)**
+  + **[Password Generator NEW](https://github.com/AnomaliesGentoolman/Password-Generator-NEW)**
+  + **[Pocket Calculator Extension - Calculator Extension](https://github.com/AnomaliesGentoolman/calculator-extension)**
+  + **[Python PC Lagger](https://github.com/AnomaliesGentoolman/python-pc-lagger)**
+  + **[Python Random Number Generator](https://github.com/AnomaliesGentoolman/python-random-number)**
 
 ### My Organization Repositories
   +  **[UE5 Roll a Ball Game](https://github.com/P0L3NARUBA/ue5-roll-a-ball-game)**
@@ -30,10 +30,10 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 ---
 
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WH0LEWHALE&theme=transparent&card_width=425" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnomaliesGentoolman&theme=transparent&card_width=425" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WH0LEWHALE&layout=compact&langs_count=8&card_width=385&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnomaliesGentoolman&layout=compact&langs_count=8&card_width=385&theme=transparent" />
 </a>
 
 <h3 align="center">Languages, Tools and Programs That I am Familiar With</h3>
