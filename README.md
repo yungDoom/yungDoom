@@ -36,7 +36,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   <img height=200 align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=AnomaliesGentoolman&layout=compact&langs_count=8&card_width=353&theme=transparent&include_orgs=true" />
 </a>
 
-<h3 align="center">Languages, Tools and Programs That I am Familiar With</h3>
+<h3 align="center">Languages, Tools and Programs</h3>
 
 <div align="center"> 
   
