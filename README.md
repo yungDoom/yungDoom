@@ -30,10 +30,10 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 ---
 
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnomaliesGentoolman&theme=transparent&card_width=425" />
+  <img height=200 align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AnomaliesGentoolman&theme=transparent&card_width=425&include_orgs=true" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnomaliesGentoolman&layout=compact&langs_count=8&card_width=385&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=AnomaliesGentoolman&layout=compact&langs_count=8&card_width=385&theme=transparent&include_orgs=true" />
 </a>
 
 <h3 align="center">Languages, Tools and Programs That I am Familiar With</h3>
