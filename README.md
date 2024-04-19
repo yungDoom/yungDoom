@@ -34,7 +34,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
  + **[Morphvox Pro with FX](https://github.com/TeamofNonsense/morphvox-pro-with-fx)**
  + **[Turkey Data And Panel]() Private/Inaccessible without permission.**
 
-<h2 align="center">Statistics</h2>
+<h2 align="center">Statistics & Information</h2>
 
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=yungDoom&theme=transparent&card_width=400&include_orgs=true" />
