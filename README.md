@@ -2,14 +2,14 @@
 Good to see you here, you can look down for some good stuff maybe you can mess with.
 
 ### My Repositories
-  + **[Assembly Example](https://github.com/AnomaliesGentoolman/assembly-example)**
-  + **[Lua Test](https://github.com/AnomaliesGentoolman/lua-test)**
-  + **[Password Generator](https://github.com/AnomaliesGentoolman/Password-Generator)**
-  + **[Password Generator NEW](https://github.com/AnomaliesGentoolman/Password-Generator-NEW)**
-  + **[Pocket Calculator Extension - Calculator Extension](https://github.com/AnomaliesGentoolman/calculator-extension)**
-  + **[Python PC Lagger](https://github.com/AnomaliesGentoolman/python-pc-lagger)**
-  + **[Python Random Number Generator](https://github.com/AnomaliesGentoolman/python-random-number)**
-  + **[Activate Windows 10/11](https://github.com/AnomaliesGentoolman/activate-windows)**
+  + **[Assembly Example](https://github.com/yungDoom/assembly-example)**
+  + **[Lua Test](https://github.com/yungDoom/lua-test)**
+  + **[Password Generator](https://github.com/yungDoom/Password-Generator)**
+  + **[Password Generator NEW](https://github.com/yungDoom/Password-Generator-NEW)**
+  + **[Pocket Calculator Extension - Calculator Extension](https://github.com/yungDoom/calculator-extension)**
+  + **[Python PC Lagger](https://github.com/yungDoom/python-pc-lagger)**
+  + **[Python Random Number Generator](https://github.com/yungDoom/python-random-number)**
+  + **[Activate Windows 10/11](https://github.com/yungDoom/activate-windows)**
 
 ### My Organization Repositories
 
@@ -37,10 +37,10 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 <h2 align="center">Statistics</h2>
 
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AnomaliesGentoolman&theme=transparent&card_width=400&include_orgs=true" />
+  <img height=200 align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=yungDoom&theme=transparent&card_width=400&include_orgs=true" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=AnomaliesGentoolman&layout=compact&langs_count=8&card_width=353&theme=transparent&include_orgs=true" />
+  <img height=200 align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=yungDoom&layout=compact&langs_count=8&card_width=353&theme=transparent&include_orgs=true" />
 </a>
 
 <h2 align="center">Languages, Tools and Programs</h2>
