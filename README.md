@@ -40,7 +40,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   <img height=200 align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=yungDoom&layout=compact&langs_count=8&card_width=353&theme=transparent&include_orgs=true" />
 </a>
 
-<!-- *Removed for unknown reasons :D*
+
 <h2 align="center">Languages, Tools and Programs</h2>
 
 <div align="center"> 
@@ -53,7 +53,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 ![Brave](https://img.shields.io/badge/Brave_Browser-FB542B.svg?style=for-the-badge&logo=brave&logoColor=white)![Firefox Browser](https://img.shields.io/badge/Firefox_Browser-FF7139.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
 
 </div>
--->
 
 <h3 align="center">Operating Systems</h3>
 <div align="center"> 
