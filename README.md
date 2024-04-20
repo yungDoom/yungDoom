@@ -5,10 +5,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Assembly Example](https://github.com/yungDoom/assembly-example)**
   + **[Lua Test](https://github.com/yungDoom/lua-test)**
   + **[Password Generator](https://github.com/yungDoom/Password-Generator)**
-  + **[Password Generator NEW](https://github.com/yungDoom/Password-Generator-NEW)**
-  + **[Pocket Calculator Extension - Calculator Extension](https://github.com/yungDoom/calculator-extension)**
   + **[Python PC Lagger](https://github.com/yungDoom/python-pc-lagger)**
-  + **[Python Random Number Generator](https://github.com/yungDoom/python-random-number)**
   + **[Activate Windows 10/11](https://github.com/yungDoom/activate-windows)**
 
 ### My Organization Repositories
