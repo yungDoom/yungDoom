@@ -2,8 +2,9 @@
 Good to see you here, you can look down for some good stuff maybe you can mess with.
 
 ### My Socials
-**Discord:** @yungdoomofficial
+**Discord:** @yungdoomofficial<br>
 **Telegram:** @yungDoom
+
 **Im also available at Whatsapp, Viber and Signal.**
 
 ### My Repositories
