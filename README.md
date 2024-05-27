@@ -1,6 +1,11 @@
 # 👋 Welcome to my github profile!
 Good to see you here, you can look down for some good stuff maybe you can mess with.
 
+### My Socials
+**Discord:** @yungdoomofficial
+**Telegram:** @yungDoom
+**Im also available at Whatsapp, Viber and Signal.**
+
 ### My Repositories
   + **[Assembly Example](https://github.com/yungDoom/assembly-example)**
   + **[Lua Test](https://github.com/yungDoom/lua-test)**
