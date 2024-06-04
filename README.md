@@ -1,7 +1,7 @@
 # 👋 Welcome to my github profile!
 Good to see you here, you can look down for some good stuff maybe you can mess with.
 
-### My Socials
+### My Social(s)
 **Discord:** @yungdoomofficial<br>
 
 ### My Repositories
