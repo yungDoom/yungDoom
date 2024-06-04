@@ -3,9 +3,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 
 ### My Socials
 **Discord:** @yungdoomofficial<br>
-**Telegram:** @yungDoom
-
-**Im also available at Whatsapp, Viber and Signal.**
 
 ### My Repositories
   + **[Assembly Example](https://github.com/yungDoom/assembly-example)**
