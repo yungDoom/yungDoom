@@ -2,7 +2,7 @@
 Good to see you here, you can look down for some good stuff maybe you can mess with.
 
 ### My Social(s)
-**Discord:** @yungdoomofficial<br>
+**Discord:** .sosa1337<br>
 
 ### My Repositories
   + **[Assembly Example](https://github.com/yungDoom/assembly-example)**
