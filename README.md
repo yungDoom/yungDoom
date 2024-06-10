@@ -3,6 +3,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 
 ### My Social(s)
 **Discord:** .sosa1337<br>
+**Alt Discord:** .yungdoom
 
 ### My Repositories
   + **[Assembly Example](https://github.com/yungDoom/assembly-example)**
