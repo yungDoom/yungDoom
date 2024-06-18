@@ -2,7 +2,7 @@
 Good to see you here, you can look down for some good stuff maybe you can mess with.
 
 ### My Social(s)
-**Discord:** .sosa1337<br>
+**Discord:** .sosa1337<br> (This account got suspended)
 **Alt Discord:** .yungdoom
 
 ### My Repositories
@@ -24,7 +24,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
      + **[OSVPhysics](https://github.com/P0L3NARUBA/OSVPhysics)** (Open Source VPhysics)
   + **[Roblox Uncopylocked Games Collection](https://github.com/P0L3NARUBA/roblox-uncopylocked-games)**
   + **[Minecraft Source Code Compiling Tutorial](https://github.com/P0L3NARUBA/minecraft-sc-compiling-tutorial)**
-  + **[Grand Theft Auto V Source Code Build Guide](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide)** (This repository DMCA'ed...)
+  + **[Grand Theft Auto V Source Code Build Guide](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide)** (This repository DMCA'ed, i published it again on my discord server)
   + **[FiveM Hacks](https://github.com/P0L3NARUBA/fivem-hacks)**
   + **[Friday 13th The Game Hacks](https://github.com/P0L3NARUBA/friday-13th-game-hacks)**
   +  **[Soundpad Cracked](https://github.com/P0L3NARUBA/sounpad-cracked)**
