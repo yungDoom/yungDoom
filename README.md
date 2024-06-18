@@ -2,7 +2,7 @@
 Good to see you here, you can look down for some good stuff maybe you can mess with.
 
 ### My Social(s)
-**Discord:** .sosa1337<br> (This account got suspended)
+**Discord:** .sosa1337 (This account got suspended)<br> 
 **Alt Discord:** .yungdoom
 
 ### My Repositories
