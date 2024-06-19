@@ -24,11 +24,9 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
      + **[OSVPhysics](https://github.com/P0L3NARUBA/OSVPhysics)** (Open Source VPhysics)
   + **[Roblox Uncopylocked Games Collection](https://github.com/P0L3NARUBA/roblox-uncopylocked-games)**
   + **[Minecraft Source Code Compiling Tutorial](https://github.com/P0L3NARUBA/minecraft-sc-compiling-tutorial)**
-  + **[Grand Theft Auto V Source Code Build Guide](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide)** (This repository DMCA'ed, i published it again on my discord server)
+  + **[Grand Theft Auto V Source Code Build Guide](https://github.com/P0L3NARUBA/gtav-source-code-build-guide)**
   + **[FiveM Hacks](https://github.com/P0L3NARUBA/fivem-hacks)**
   + **[Friday 13th The Game Hacks](https://github.com/P0L3NARUBA/friday-13th-game-hacks)**
-  +  **[Soundpad Cracked](https://github.com/P0L3NARUBA/sounpad-cracked)**
-  + **[Morphvox Pro with FX](https://github.com/P0L3NARUBA/morphvox-pro-with-fx)**
   + **[Turkey Data And Panel]()  Private/Inaccessible without permission.**
 
 
