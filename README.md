@@ -37,7 +37,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   <img height=200 align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=yungDoom&layout=compact&langs_count=8&card_width=353&theme=transparent&include_orgs=true" />
 </a>
 
-
+<!-- Scrapped since this is not needed anyways.
 <h2 align="center">Languages, Tools and Programs</h2>
 
 <div align="center"> 
@@ -57,6 +57,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 ![C](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) ![C](https://img.shields.io/badge/Windows_10-0078d4?style=for-the-badge&logo=windows-10&logoColor=white) ![C](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) 
 
 </div>
-
+-->
 
 *<div align="center">Thanks for viewing my profile! <br>👍</div>*
