@@ -6,8 +6,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Lua Test](https://github.com/yungDoom/lua-test)**
   + **[Password Generator](https://github.com/yungDoom/Password-Generator)**
   + **[Python PC Lagger](https://github.com/yungDoom/python-pc-lagger)**
-  + **[reGTA - GTA III & GTA VC](https://github.com/yungDoom/reGTA)**
-  + **[Receiver Modded](https://github.com/yungDoom/Receiver-Modded)**
 
 ### My Organization Repositories
 
@@ -25,6 +23,8 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Grand Theft Auto V Source Code Build Guide](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide)**
   + **[FiveM Hacks](https://github.com/P0L3NARUBA/fivem-hacks)**
   + **[Friday 13th The Game Hacks](https://github.com/P0L3NARUBA/friday-13th-game-hacks)**
+  + **[reGTA - GTA III & GTA VC](https://github.com/P0L3NARUBA/reGTA)**
+  + **[Receiver Modded](https://github.com/P0L3NARUBA/Receiver-Modded)**
   + **[Turkey Data And Panel]()  Private/Inaccessible without permission.**
 
 
