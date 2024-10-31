@@ -22,7 +22,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
      + **[OSVPhysics](https://github.com/P0L3NARUBA/OSVPhysics)** (Open Source VPhysics)
   + **[Roblox Uncopylocked Games Collection](https://github.com/P0L3NARUBA/roblox-uncopylocked-games)**
   + **[Minecraft Source Code Compiling Tutorial](https://github.com/P0L3NARUBA/minecraft-sc-compiling-tutorial)**
-  + **~~Grand Theft Auto V Source Code Build Guide~~** [Got DMCA'ed Go to my discord server for the guide.](https://www.discord.gg/UM8M9kvyKs)
+  + **~~Grand Theft Auto V Source Code Build Guide~~** [Got DMCA'ed Go to my discord server for the guide.](https://discord.com/invite/UM8M9kvyKs)
   + **[FiveM Hacks](https://github.com/P0L3NARUBA/fivem-hacks)**
   + **[Friday 13th The Game Hacks](https://github.com/P0L3NARUBA/friday-13th-game-hacks)**
   + **[reGTA - GTA III & GTA VC](https://github.com/P0L3NARUBA/reGTA)**
