@@ -1,5 +1,5 @@
 # 👋 Welcome to my github profile!
-Good to see you here, you can look down for some good stuff maybe you can mess with.
+Good to see you here, you can look down for some good stuff maybe you can mess with.<br>
 **P.S:** My old nicknames was; WH0LEWHALE, Apocalyptically and Smashtika
 
 ### My Repositories
