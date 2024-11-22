@@ -20,7 +20,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Linux Strike](https://github.com/P0L3NARUBA/Linux-Strike)** (Fork of Kisak Strike, but modified one.)
      + **[Linux Strike Files](https://github.com/P0L3NARUBA/Linux-Strike-Files)**  (Fork of Kisak Strike Files)
   + **[Roblox Uncopylocked Games Collection](https://github.com/P0L3NARUBA/roblox-uncopylocked-games)**
-  + **[Minecraft Source Code Compiling Tutorial](https://github.com/P0L3NARUBA/minecraft-sc-compiling-tutorial)**
   + **[Grand Theft Auto V Source Code Build Guide](https://github.com/voyageprofessor/gtav-sourcecode-build-guide)**
   + **[FiveM Hacks](https://github.com/P0L3NARUBA/fivem-hacks)**
   + **[Friday 13th The Game Hacks](https://github.com/P0L3NARUBA/friday-13th-game-hacks)**
