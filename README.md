@@ -16,8 +16,8 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 
 #### P0L3NARUBA
   + **[Grand Theft Auto V Source Code Build Guide](https://github.com/voyageprofessor/gtav-sourcecode-build-guide)**
-  + **[Linux Strike](https://github.com/P0L3NARUBA/Linux-Strike)** (Fork of Kisak Strike, but modified one.)
-  + **[Linux Strike Files](https://github.com/P0L3NARUBA/Linux-Strike-Files)**  (Fork of Kisak Strike Files)
+  + **[Linux Strike](https://github.com/P0L3NARUBA/Linux-Strike)**
+  + **[Linux Strike Files](https://github.com/P0L3NARUBA/Linux-Strike-Files)**
   + **[Roblox 2016 Source Code](https://github.com/P0L3NARUBA/roblox-2016-source-code)**
   + **[FiveM Hacks](https://github.com/P0L3NARUBA/fivem-hacks)**
   +  **[UE5 Roll a Ball Game](https://github.com/P0L3NARUBA/ue5-roll-a-ball-game)**
