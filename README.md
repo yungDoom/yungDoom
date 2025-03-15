@@ -23,7 +23,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
   + **[Linux Strike Files](https://github.com/P0L3NARUBA/Linux-Strike-Files)**
   + **[Source Engine Strike](https://github.com/P0L3NARUBA/source-engine-strike)**
   + **[Roblox 2016 Source Code](https://github.com/P0L3NARUBA/roblox-2016-source-code)**
-  + **[Roblox Uncopylocked Games Collection](https://github.com/P0L3NARUBA/roblox-uncopylocked-games)**
+  + **[Roblox Uncopylocked Games Collection]()** (Private)
   + **[Friday 13th The Game Hacks](https://github.com/P0L3NARUBA/friday-13th-game-hacks)**
   + **[SCP:CB Modding Tools Collection](https://github.com/P0L3NARUBA/scp-mt-collection)**
   + **[Amnesia Prebuilded Modding Tools](https://github.com/P0L3NARUBA/amnesia-tdd-modding-tools)**
@@ -35,7 +35,7 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
    + **[TGMacro X](https://github.com/P0L3NARUBA/TGMacro-X/)**
    + **[Windows Server 2003(XP) Build Guide](https://github.com/P0L3NARUBA/win-2k3-build-guide)**
    + **[Windows Server 2003 Certification Creation Tool](https://github.com/P0L3NARUBA/win-2k3-certutil)**
-   + **[Turkey Data And Panel]()** (Private/Inaccessible without permission.)<br>
+   + **[Turkey Data And Panel]()** (Private)<br>
   and more...
 
 
