@@ -3,38 +3,6 @@ Good to see you here, you can look down for some good stuff maybe you can mess w
 **P.S:** My old nicknames was; WH0LEWHALE, Apocalyptically and Smashtika<br>
 **Socials:** https://guns.lol/yungdoom
 
-
-### My Repositories
-  + **[Assembly Example](https://github.com/yungDoom/assembly-example)**
-  + **[Lua Test](https://github.com/yungDoom/lua-test)**
-  + **[Password Generator](https://github.com/yungDoom/Password-Generator)**
-  + **[Python PC Lagger](https://github.com/yungDoom/python-pc-lagger)**
-  + **[WARP Start/Stop](https://github.com/yungDoom/WARP-StartStop)**<br>
-  and more...
-
-### My Organization Repositories
-
-#### P0L3NARUBA
-  ##### Game
-  + **[Grand Theft Auto V Source Code Build Guide](https://github.com/voyageprofessor/gtav-sourcecode-build-guide)**
-  + **[reGTA - GTA III & GTA VC](https://github.com/P0L3NARUBA/reGTA)**
-  + **[FiveM Hacks](https://github.com/P0L3NARUBA/fivem-hacks)**
-  + **[Linux Strike](https://github.com/P0L3NARUBA/Linux-Strike)**
-  + **[Linux Strike Files](https://github.com/P0L3NARUBA/Linux-Strike-Files)**
-  + **[Source Engine Strike](https://github.com/P0L3NARUBA/source-engine-strike)**
-  + **[Roblox 2016 Source Code](https://github.com/P0L3NARUBA/roblox-2016-source-code)**
-  + **[Friday 13th The Game Hacks](https://github.com/P0L3NARUBA/friday-13th-game-hacks)**
-  + **[SCP:CB Modding Tools Collection](https://github.com/P0L3NARUBA/scp-mt-collection)**
-  +  **[UE5 Roll a Ball Game](https://github.com/P0L3NARUBA/ue5-roll-a-ball-game)**
-  + **[Receiver Modded](https://github.com/P0L3NARUBA/Receiver-Modded)**
-
-  ##### Other
-   + **[TGMacro X](https://github.com/P0L3NARUBA/TGMacro-X/)**
-   + **[Windows Server 2003(XP) Build Guide](https://github.com/P0L3NARUBA/win-2k3-build-guide)**
-   + **[Windows Server 2003 Certification Creation Tool](https://github.com/P0L3NARUBA/win-2k3-certutil)**<br>
-  and more...
-
-
 <h2 align="center">Statistics & Information</h2>
 
 <a href="">
